@@ -49,6 +49,8 @@ Notre implémentation du projet s'est réparti en plusieurs parties :
 
 ## 5. Utilisation des scripts et données
 Voici ce qu'il faut savoir pour utiliser nos scripts et l'interface streamlit.  
+Les dépendances pour ce projet sont à installer avec le fichier ```requirements.txt``` et la commande ```pip install -r requirements.txt```.  
+
 
 Deux options sont possibles :  
 
