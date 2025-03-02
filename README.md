@@ -33,6 +33,9 @@ Voici la manière dont nous avons procédé pour construire notre projet :
 - lier le modèle neuronal à l'interface streamlit  
 
 Nous avons travaillé simultanément sur les différentes étapes du projet dans le but d'obtenir la meilleure méthode de préparation des données et meilleur modèle.  
+
+Pour organiser notre travail, nous avons utilisé deux repositories : un premier pour le développement du projet où nous avons push les différentes versions de nos scripts au fil de nos avancées, puis un second repository dans lequel nous avons intégré la version finale pour le rendu du projet.  
+
 Nous n'avons pas rencontré de difficulté particulière sur l'implémentation du modèle.  
 Les difficultés sont arrivées lorsque nous souhaitions lier le modèle à l'interface streamlit.  
 De plus streamlit étant une interface dynamique, dès que l'utilisateur interagit avec l'application, tous les graphiques et tableaux disparaissent. Il a donc fallu beaucoup jouer avec l'outil ```st.session_state``` pour résoudre ces problèmes.  
